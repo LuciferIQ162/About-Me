@@ -14,6 +14,7 @@
 - 🤖 **AI & Tech Curious:** I keep up with the latest advancements in AI, quantum computing, and emerging tech. I believe in the power of technology to transform the world.
 - 🛠️ **Problem Solver:** I love tackling errors, debugging code, and finding efficient solutions—whether it’s fixing a Python ImportError, optimizing VS Code, or managing virtual environments.
 - 🎯 **Goal-Oriented:** My ambition is to land a top tech job and contribute to impactful projects. I’m always open to collaboration and learning from the community.
+- 🤖 **Robotics & Hardware:**  Robotics excites me because it lets me bring ideas to life with hardware and Python. I use microcontrollers like Arduino and Raspberry Pi, connecting sensors (ultrasonic, IR, gyroscope) and actuators (servos, DC motors) to build responsive systems. My workflow starts with breadboarding and wiring, then programming logic in Python—often managing dependencies with virtual environments and integrating TensorFlow for smart features. I love the hands-on process of testing, debugging, and refining each build until everything works seamlessly together.
 
 ---
 
@@ -32,10 +33,10 @@
 
 ## 📚 Recent Projects & Interests
 
-- **ML for Gamma Radiation Data:** Built and trained neural networks for scientific data analysis[17].
-- **Feature Selection in ML:** Explored and implemented various feature selection techniques to improve model performance[19].
-- **Personal Website:** Experimenting with free website builders and adding multimedia content[2][3].
-- **Mathematics Content:** Solving and sharing interesting math problems, from derivatives to combinatorics[20][21][27][40].
+- **ML for Gamma Radiation Data:** Built and trained neural networks for scientific data analysis.
+- **Feature Selection in ML:** Explored and implemented various feature selection techniques to improve model performance.
+- **Personal Website:** Experimenting with free website builders and adding multimedia content.
+- **Mathematics Content:** Solving and sharing interesting math problems, from derivatives to combinatorics.
 
 ---
 
