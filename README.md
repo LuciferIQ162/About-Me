@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi, I'm Shobhit 👋</h1>
 <p align="center">
   <b>Mathematics Enthusiast | Aspiring Data Scientist | Tech Explorer</b>
 </p>
@@ -8,12 +8,12 @@
 
 ## 🚀 About Me
 
-- 🎓 **Math Explorer:** I love diving deep into mathematical concepts, especially limits, convergence, geometry, and logarithms. Whether it’s solving permutation-combination puzzles or exploring the beauty of rotational motion, math is my playground[1][21][27][31].
-- 💻 **Code & Build:** I’m passionate about programming and constantly learning new tools. My current stack includes Python, Pandas, NumPy, TensorFlow, and scikit-learn. I enjoy building machine learning models and automating data workflows[17][19][25][26][42][43].
-- 🌐 **Web & Git:** I’m on a journey to master Git and GitHub, and I’m experimenting with building personal websites using modern tools and platforms. Sharing knowledge and projects is important to me[3][4].
-- 🤖 **AI & Tech Curious:** I keep up with the latest advancements in AI, quantum computing, and emerging tech. I believe in the power of technology to transform the world[47].
-- 🛠️ **Problem Solver:** I love tackling errors, debugging code, and finding efficient solutions—whether it’s fixing a Python ImportError, optimizing VS Code, or managing virtual environments[5][12][14][15][16][18].
-- 🎯 **Goal-Oriented:** My ambition is to land a top tech job and contribute to impactful projects. I’m always open to collaboration and learning from the community[44].
+- 🎓 **Math Explorer:** I love diving deep into mathematical concepts, especially limits, convergence, geometry, and logarithms. Whether it’s solving permutation-combination puzzles or exploring the beauty of rotational motion, math is my playground.
+- 💻 **Code & Build:** I’m passionate about programming and constantly learning new tools. My current stack includes Python, Pandas, NumPy, TensorFlow, and scikit-learn. I enjoy building machine learning models and automating data workflows.
+- 🌐 **Web & Git:** I’m on a journey to master Git and GitHub, and I’m experimenting with building personal websites using modern tools and platforms. Sharing knowledge and projects is important to me.
+- 🤖 **AI & Tech Curious:** I keep up with the latest advancements in AI, quantum computing, and emerging tech. I believe in the power of technology to transform the world.
+- 🛠️ **Problem Solver:** I love tackling errors, debugging code, and finding efficient solutions—whether it’s fixing a Python ImportError, optimizing VS Code, or managing virtual environments.
+- 🎯 **Goal-Oriented:** My ambition is to land a top tech job and contribute to impactful projects. I’m always open to collaboration and learning from the community.
 
 ---
 
@@ -52,15 +52,16 @@
 
 - I love breaking down complex math concepts into simple explanations.
 - Always ready to debug a tricky error or automate a boring task.
-- My YouTube feed is all about tech, AI, and the latest scientific breakthroughs[36][47].
+- My YouTube feed is all about tech, AI, and the latest scientific breakthroughs.
 
 ---
 
 ## 📫 Let’s Connect!
 
-- **GitHub:** [your-username](#)
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [your-linkedin-profile](#)
+- **GitHub:** [LuciferIQ162]
+- **Email:** [devil.com444@gmail.com]
+- **LinkedIn:** [(https://www.linkedin.com/in/shobhit-gaur-a73a642a0/)]
+- **Website:** [https://remarkable-sherbet-766cd0.netlify.app/#]
 
 ---
 
